@@ -1,2 +1,6 @@
-# journeytofullstack
-My journey to full Stack web development with simple projects advancing towards advanced level projects.
+# First Project
+
+This is a basic tip calculator I developed using Bootstrap Framework.
+
+@semaxspaul
+$semaxspaul.tipCalculator
